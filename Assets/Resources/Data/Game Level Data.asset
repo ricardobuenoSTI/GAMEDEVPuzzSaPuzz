@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03aad9316e7300f4fafe2b8195042825, type: 3}
+  m_Name: Game Level Data
+  m_EditorClassIdentifier: 
+  data:
+  - categoryName: WebDev
+    boardData:
+    - {fileID: 11400000, guid: 80f670408f3cd894f9bf7947997420c6, type: 2}
+  - categoryName: GameDev
+    boardData:
+    - {fileID: 11400000, guid: 10f35c2fed4a12449a477cf613606ecd, type: 2}
+  - categoryName: InfoSec
+    boardData:
+    - {fileID: 11400000, guid: 4dbe097ed46665943bd1712402fae140, type: 2}

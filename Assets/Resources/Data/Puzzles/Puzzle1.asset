@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fbfa01dc50c7ab4499f134f84ac7960, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - R
+    - Y
+    - Y
+    - A
+    - Y
+    - Z
+    - N
+    - L
+    - M
+    - G
+  - Size: 10
+    Row:
+    - Z
+    - X
+    - D
+    - C
+    - U
+    - K
+    - Y
+    - J
+    - E
+    - X
+  - Size: 10
+    Row:
+    - N
+    - V
+    - G
+    - P
+    - J
+    - J
+    - A
+    - Z
+    - G
+    - O
+  - Size: 10
+    Row:
+    - C
+    - X
+    - G
+    - H
+    - J
+    - E
+    - T
+    - T
+    - A
+    - L
+  - Size: 10
+    Row:
+    - E
+    - G
+    - R
+    - T
+    - C
+    - A
+    - T
+    - L
+    - E
+    - V
+  - Size: 10
+    Row:
+    - U
+    - F
+    - T
+    - T
+    - Y
+    - U
+    - X
+    - A
+    - M
+    - Y
+  - Size: 10
+    Row:
+    - S
+    - C
+    - V
+    - C
+    - Y
+    - O
+    - T
+    - I
+    - X
+    - D
+  - Size: 10
+    Row:
+    - D
+    - M
+    - A
+    - Y
+    - F
+    - E
+    - V
+    - M
+    - H
+    - U
+  - Size: 10
+    Row:
+    - U
+    - V
+    - H
+    - G
+    - L
+    - M
+    - Q
+    - V
+    - Q
+    - G
+  - Size: 10
+    Row:
+    - D
+    - V
+    - O
+    - B
+    - M
+    - Z
+    - B
+    - S
+    - P
+    - K
+  SearchWords:
+  - Word: Summer
+  - Word: MEGA
+  - Word: WInter
+  - Word: Autumn
+  - Word: Autumn
+  - Word: Autumn
